@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/algorithm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/algorithm/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_console/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_console/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_exceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_exceptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_ui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc_utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
